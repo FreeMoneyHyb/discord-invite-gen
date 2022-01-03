@@ -1,0 +1,3 @@
+proxys example
+154.202.117.32:3128
+HTTP ONLY
